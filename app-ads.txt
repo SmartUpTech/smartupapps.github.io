@@ -3,6 +3,9 @@ mopub.com, 055292fd38ab40dd90b03cedcf485804, DIRECT, 74b46c0ea83967ca
 rubiconproject.com, 21648, RESELLER, 0bfd66d529a55807
 google.com, pub-9684723354540179, DIRECT, f08c47fec0942fa0
 
+#For AdMob Test Ads
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
+
 #Premium Programmatic Demand by publisher@greedygame.com
 google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
 adcolony.com, 35c95674451fce1c, RESELLER, 1ad675c9de6b5176
